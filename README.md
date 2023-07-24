@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding and spaaaaace
 - 🌱 I’m currently learning python
 - :)
-- scratch https://scratch.mit.edu/smou14
+- scratch https://scratch.mit.edu/users/smou14/

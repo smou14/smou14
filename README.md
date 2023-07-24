@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @smou14
+- 👀 I’m interested in coding and spaaaaace
+- 🌱 I’m currently learning python
+- :)
+- scratch https://scratch.mit.edu/smou14
